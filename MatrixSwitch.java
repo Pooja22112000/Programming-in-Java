@@ -3,7 +3,7 @@ import java.lang.*;
 import java.util.*;
 public class MatrixSwitch{
 	public static void main(String[] args){
-		System.out.println("A.POOJA 18MIS0232");
+		
 		int p,q,m,n; 
 		Scanner input=new Scanner(System.in);
 			System.out.println("Enter the number of rows in matrix 1");
