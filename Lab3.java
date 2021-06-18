@@ -4,7 +4,7 @@ import java.io.*;
 public class Lab3{
 	public static void main(String[] args) throws IOException{
 		
-		System.out.println("A.POOJA --- 18MIS0232\n");
+		
 		int i,j;
 		
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
