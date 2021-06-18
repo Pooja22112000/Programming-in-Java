@@ -3,7 +3,7 @@ import java.lang.*;
 public class VowCons{
 	public static void main(String[] args){
 		char alph='A';
-		System.out.println(" A.POOJA 18MIS0232");
+		
 		switch(alph){
 			case 'a':
 			case 'e':
