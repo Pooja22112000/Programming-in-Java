@@ -11,7 +11,7 @@ public class Compute{
 	double iinternet;
 	public void MyDetails()
 	{
-		System.out.println("---------      A.POOJA    -------   18MIS0232  -----------");
+		System.out.println("---------      A.POOJA    -------     -----------");
 	}
 	
 	public void TotalExp()
