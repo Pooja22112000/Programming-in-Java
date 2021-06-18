@@ -3,7 +3,7 @@ import java.lang.*;
 import java.util.*;
 public class Season{
 	public static void main(String[] args){
-		System.out.println("A.POOJA 18MIS0232");
+		
 		Scanner sc=new Scanner(System.in);
 		int n;
 		System.out.println("Enter the Month you want to know the season");
