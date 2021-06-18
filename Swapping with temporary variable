@@ -1,0 +1,14 @@
+//swapping with temporary variable
+import java.lang.*;
+public class SwapWith{
+	public static void main(String[] args){
+		int a=9, b=0;
+		
+		int temp;
+		System.out.println("The values before Swapping: \n a="+a+"b="+b);
+		temp=a;
+		a=b;
+		b=temp;
+		System.out.println("The values after Swapping: \n a="+a+"b="+b);
+	}
+}
