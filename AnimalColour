@@ -1,0 +1,29 @@
+//Color of animal using switch case
+import java.lang.*;
+import java.util.*;
+public class AnimColor{
+	public static void main(String[] args){
+		System.out.println("Enter the Animal whose colour you need to know");
+		System.out.println("1.Lion,2.Elephant,3.Camel,4.Zebra");
+		System.out.println("Your choice is: ");
+		Scanner sc=new Scanner(System.in);
+		int animal;
+		animal=sc.nextInt();
+	    switch(animal) {
+		case 1:
+		System.out.println(" Lion is golden Yellow");
+		break;
+		case 2:
+		System.out.println(" Elephant is Gray");
+		break;
+		case 3:
+		System.out.println(" Camel is Brown");
+		break;
+		case 4:
+		System.out.println(" Zebra is white with black stripes");
+		break;
+		default:
+		System.out.println("Not found" );
+		}	
+	}	
+}
