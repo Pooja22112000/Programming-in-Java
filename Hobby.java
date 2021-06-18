@@ -3,7 +3,7 @@ import java.lang.*;
 import java.util.*;
 public class Hobby{
 	public static void main(String[] args){
-		System.out.println("A.POOJA 18MIS0232");
+		
 		System.out.println("Enter Your Hobby:");
 		System.out.println("eg..Programming,Singing,Dancing,Reading,Movies\n");
 		Scanner sc=new Scanner(System.in);
