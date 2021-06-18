@@ -2,7 +2,6 @@
 import java.lang.*;
 public class QuoRem{
 	public static void main(String[] args){
-		System.out.println(" A.POOJA 18MIS0232");
 		int divisor=2;
 		int dividend=9;
 		int Quotient=dividend/divisor;
