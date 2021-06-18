@@ -21,7 +21,7 @@ class Restaurant{
 class RestaurantAmount{
 	public static void main(String[] args)
 	{
-	System.out.println("A.POOJA -- 18MIS0232   :-)");
+	
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the Number of days for food");
 		int g=sc.nextInt();
