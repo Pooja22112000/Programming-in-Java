@@ -20,10 +20,9 @@ class Record{
 	public class StudentRecord{
 		public static void main(String[] args){
 			Record r1=new Record();
-			System.out.println("18MIS0232 A.POOJA");
 			System.out.println(r1);
 			r1.details();
-			r1.display(2,"18MIS0232","Pooja");
+			r1.display(2,"12","Pooja");
 		}
 	}
 
