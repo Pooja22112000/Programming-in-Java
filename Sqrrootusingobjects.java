@@ -16,7 +16,7 @@ class Sqrroot{
 class Sqrrootusingobjects{
 	public static void main(String[] args){
 		Scanner sc=new Scanner(System.in);
-		System.out.println("A.POOJA -- 18MIS0232");
+		
 		System.out.println("Enter the number for which you want to find the square root");
 		int inp=sc.nextInt();
 		Sqrroot sr=new Sqrroot(inp);
