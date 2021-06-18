@@ -52,7 +52,6 @@ class CheckPalindromeWords
                 System.out.print(word[i]+" ");
             }
         }
- 
         // To show the palindrome or not.
         if(count==0)
         System.out.println("No Palindrome Words");
